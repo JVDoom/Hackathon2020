@@ -5,8 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
  
   <build>
-    <sourceDirectory>Hackathon2020/src/main/java</sourceDirectory>
-    <testSourceDirectory>Hackathon2020/src/test/java</testSourceDirectory>
+    <sourceDirectory>src/main/java</sourceDirectory>
+    <testSourceDirectory>src/test/java</testSourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
